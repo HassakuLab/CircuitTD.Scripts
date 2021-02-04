@@ -1,0 +1,16 @@
+{
+    "name": "Presentations",
+    "rootNamespace": "HassakuLab.CircuitTD.Ingames.Presentations",
+    "references": [
+        "GUID:37092326dc3ab9046921c0f2eea46d0d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
